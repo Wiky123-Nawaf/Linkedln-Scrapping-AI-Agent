@@ -18,7 +18,8 @@ This project automates job searching and applying on LinkedIn using Selenium. It
 ✅ Pagination Handling – Iterates through multiple pages of job listings.
 
 **Requirements**
-1. Python
-2. Selenium
-3. WebDriver Manager
-4. Ollama (for AI-based analysis)
+
+1.  Python
+2.  Selenium
+3.  WebDriver Manager
+4.  Ollama (for AI-based analysis)
