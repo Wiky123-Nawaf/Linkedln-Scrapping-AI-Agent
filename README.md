@@ -1,4 +1,4 @@
-**Overview**
+**Overview:**
 This project automates job searching and applying on LinkedIn using Selenium. It includes AI-powered job description analysis with Ollama to extract key insights and auto-fill application forms after selecting the Easy Apply icon on the job description. Additionally, it applies Easy Apply filter and past 24-hour filter to ensure fresh job listings.
 
 **Features**
