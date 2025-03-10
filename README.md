@@ -26,4 +26,4 @@ This project automates job searching and applying on LinkedIn using Selenium. It
 
 **Watch AI Apply for Jobs—So You Don’t Have To! 🤖💼**
 
-![Uploading linkedln_scroll1.gif…]()
+![Image](https://github.com/user-attachments/assets/4fc8908d-839e-4c8c-8af6-bd86144608fc)
