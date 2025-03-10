@@ -23,3 +23,7 @@ This project automates job searching and applying on LinkedIn using Selenium. It
 2.  Selenium
 3.  WebDriver Manager
 4.  Ollama (for AI-based analysis)
+
+**Watch AI Apply for Jobs—So You Don’t Have To! 🤖💼**
+
+![Uploading linkedln_scroll1.gif…]()
